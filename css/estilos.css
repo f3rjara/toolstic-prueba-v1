@@ -1,0 +1,39 @@
+body
+{
+	background-color: #111b3b;	
+}
+
+.logo_tools_mobile
+{
+	align-content: center;
+	padding-left: 1px;
+	
+}
+
+.azultools {
+  background-color: rgb(17, 27, 59) !important;
+}
+
+.azultoolstrans {
+  background-color: rgb(17, 27, 59,0.8) !important;
+}
+
+.azultoolstext {
+  color: rgb(17, 27, 59) !important;
+}
+
+
+nav
+{
+    background-color: rgba(17, 27, 59,0.8);   	
+	height: 90px;
+	padding-top: 10px;
+}
+
+.titulo_menu
+{
+	transform: translateX(60%);
+	
+}
+
+ 

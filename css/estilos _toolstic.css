@@ -1,0 +1,81 @@
+body
+{
+	background-color: #ff5c5c;	
+	padding-left: 310px;
+	padding-right: 10px;
+	display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+  }
+
+.azultools {
+  background-color: rgb(17, 27, 59) !important;
+}
+
+.azultoolstext {
+  color: rgb(17, 27, 59) !important;
+}
+
+.azultoolsTra {
+  background-color: rgba(17, 27, 59,0.8) !important;
+}
+
+.azulclick {
+  background-color: rgb(41, 148, 143) !important;
+}
+
+.menu_selecionado:hover
+{
+	background-color: rgb(41, 148, 143) !important;
+}
+
+.menu_selecionado_2:hover
+{
+	color: rgb(41, 148, 143) !important;
+	
+}
+
+.menu_desplegable_large
+{
+	transform: translateY(70px);
+}
+
+
+nav
+{
+    background-color: rgba(17, 27, 59,0.8);
+    height: 70px;
+	padding-right: 10px;
+}
+
+.titulo_menu
+{
+	transform: translateX(60%)
+}
+
+header, main {
+      padding-left: 310px;
+    }
+
+    @media only screen and (max-width : 992px) {
+	 nav
+		{
+			height: 70px;
+		}
+		
+		
+      header, main, footer {
+        padding-left: 0;
+		  padding-right: 0;
+      }
+		body
+		{
+			padding-left: 0;
+			padding-right: 0;
+		}
+    }
+       
