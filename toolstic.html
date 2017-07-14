@@ -1,7 +1,24 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	  <?php include "cabecera.html" ?>
+	<!--Importación de  Google Icon Font-->
+        <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Importación de materialize.css-->
+        <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+      <!--Adaptación Responsive mobil de Materialize-->
+         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <!-- ******************************************* -->
+        <meta charset="utf-8">
+        <title> Inicio ToolsTic </title>
+        <meta name="description" content="ToolsTic para Aprender Practicar y Aplicar">
+       <!-- fabicon -->
+       <link rel="icon" type="image/png" href="img/favicon.png" />
+        <!-- tipo de fuente personal -->
+        <link href="https://fonts.googleapis.com/css?family=Barrio" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lobster|Pacifico|Pattaya|Sansita" rel="stylesheet">
+        <!-- Iconos Font-Fantastic-->
+        <link href="https://file.myfontastic.com/2QjiNnYpQe247Gz6hSMPtQ/icons.css" rel="stylesheet">
+
 		<!-- hoja de estilos personal -->
         <link rel="stylesheet" href="css/estilos%20_toolstic.css">
         
@@ -11,7 +28,75 @@
 	
 	 <!--CABECERA PRINCIPAL - INCLUSION DE MENU index-->
       
-      	 <?php include "php/menu_principal.php" ?>
+      	<div class="navbar-fixed">
+	<nav class="azultools">	
+     <!-- AQUI COMIENZA EL MENU PARA DESPOKT -->
+    <ul class="left hide-on-med-and-down fixed">
+      <a href="toolstic.php" class="left menu_selecionado_2"><font face="Pacifico" SIZE=6>Toolstic</font></a>
+      <li class="menu_selecionado"><a href="#!" >First Sidebar Link</a></li>
+      <li class="menu_selecionado"><a href="#!">Second Sidebar Link</a></li>
+      <li class="menu_selecionado"><a class="dropdown-button" href="#!" data-activates="dropdown1">Dropdown<i class="material-icons right">arrow_drop_down</i></a></li>
+     
+      <ul id='dropdown1' class='dropdown-content menu_desplegable_large'>
+        <li class="menu_selecionado"><a href="#!">First</a></li>
+        <li class="menu_selecionado"><a href="#!">Second</a></li>
+        <li class="menu_selecionado"><a href="#!">Third</a></li>
+        <li class="menu_selecionado"><a href="#!">Fourth</a></li>
+      </ul>
+    </ul>
+    <a href="#" data-activates="slide-out" class="button-collapse show-on-largeal button-collapse btn-floating btn-large black "><i class="material-icons">menu</i></a>
+    <a href="toolstic.php" class="logo_tools_mobile hide-on-large-only"><font face="Pacifico" SIZE=6>Toolstic</font></a>
+     </div>
+     
+     <!-- AQUI COMIENZA EL MENU PARA MOBILE -->
+    <ul id="slide-out" class="side-nav fixed azultools">
+      <li><div class="userView">
+      <div class="background">
+        <img src="img/Inicio_1.png" class="responsive-img">
+      </div>
+      <br> <br>
+       <br>
+    </div></li>
+      <li class="divider"></li>
+      <li class="menu_selecionado"><a href="#!" class="white-text">GENERALIZACION</a></li>
+      <li class="divider"></li>
+      <li class="menu_selecionado"><a href="#!" class="white-text">Second Sidebar Link</a></li>
+      <li class="divider"></li>
+      <li class="no-padding">
+        <ul class="collapsible collapsible-accordion">
+          <li class="menu_selecionado">
+            <a class="collapsible-header white-text">Dropdown<i class="material-icons white-text">arrow_drop_down</i></a>
+            <div class="collapsible-body">
+              <ul>
+                <li class="menu_selecionado"><a href="#!">First</a></li> <li class="divider"></li>
+                <li class="menu_selecionado"><a href="#!">Second</a></li> <li class="divider"></li>
+                <li class="menu_selecionado"><a href="#!">Third</a></li> <li class="divider"></li>
+                <li class="menu_selecionado"><a href="#!">Fourth</a></li> <li class="divider"></li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </li>
+      <li class="divider"></li>
+      <li class="no-padding">
+        <ul class="collapsible collapsible-accordion">
+          <li class="menu_selecionado">
+            <a class="collapsible-header white-text">Dropdown 2<i class="material-icons white-text">arrow_drop_down</i></a>
+            <div class="collapsible-body">
+              <ul>
+                <li class="menu_selecionado"><a href="#!">First</a></li>
+                <li class="menu_selecionado"><a href="#!">Second</a></li>
+                <li class="menu_selecionado"><a href="#!">Third</a></li>
+                <li class="menu_selecionado"><a href="#!">Fourth</a></li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </li>
+      
+      
+    </ul>   
+		</nav>
     
       <!--CONTENIDO-->
               
@@ -54,8 +139,31 @@
 
 	<!--PIE DE PAGINA PRINCIPAL - INCLUSION DE MENU -->
       
-      	 <?php include "php/footer.php" ?>
-	
+       <footer class="page-footer azultools">
+          <div class="container ">
+            <div class="row">
+              <div class="col l9 m6 s12">
+                <h4 class="white-text"><font face="Pattaya">Toolstic</font></h4>
+                <p class="grey-text text-lighten-4">Aprende, Practica, Aplica! <br>Herramientas Informáticas</p>
+              </div>
+              <div class="col l3 m6 s12">
+                <h5 class="white-text">Siguenos</h5>
+                <ul>
+                  <li><a class="grey-text text-lighten-3" href="https://twitter.com/f3rjara"><i class="icon-twitter"class="material-icons"> </i>Twitter</a></li>
+					<li><a class="grey-text text-lighten-3" href="https://www.facebook.com/f3rjara"><i class="icon-facebook"class="material-icons"> Facebook</i></a></li>
+					<li><a class="grey-text text-lighten-3" href="https://www.youtube.com/playlist?list=PLZcNRnHxdf3Qr2w7DH9CF0sOQGevzGMpO"><i class="icon-youtube"class="material-icons"> </i>iYoutube</a></li>
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright black">
+            <div class="container white-text">
+            © 2017 Copyright Text
+            <a class="grey-text text-lighten-4 right" href="#!">Fernando Jaramillo - @f3rjara</a>
+            </div>
+          </div>
+        </footer>
 	
 	
 	
