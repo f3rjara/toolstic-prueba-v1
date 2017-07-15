@@ -4,28 +4,28 @@ Intro Text
 ======================================= 
 -->
 <instructions>
-<title>WELCOME TO IT ESSENTIALS VIRTUAL DESKTOP</title>
-<text><br>Our Virtual Desktop enables you to learn the essential steps to assemble a desktop computer, explore its components, and test your knowledge. If this is your first time, please take a moment to walk through the key features of the Virtual Desktop. This walkthrough is always available by pressing Help in the upper right hand corner.</text>
+<title>BIENVENIDO CURSO DE ENSAMBLAJE VIRTUAL</title>
+<text><br>Nuestro Curso Virtual  le permite aprender los pasos esenciales para montar un ordenador de sobremesa, explorar sus componentes, y poner a prueba sus conocimientos. explorar sus componentes, y poner a prueba tu Si esta es tu primera vez, por favor tome un momento para caminar a través de las características principales del escritorio virtual. Este tutorial está siempre disponible pulsando Ayuda en la esquina superior derecha.</text>
 </instructions>
 
 <instructions>
-<title>WELCOME TO IT ESSENTIALS VIRTUAL DESKTOP</title>
-<text><br>Our Virtual Desktop enables you to learn the essential steps to assemble a desktop computer, explore its components, and test your knowledge. If this is your first time, please take a moment to walk through the key features of the Virtual Desktop. This walkthrough is always available by pressing Help in the upper right hand corner.</text>
+<title>BIENVENIDO CURSO DE ENSAMBLAJE VIRTUAL</title>
+<text><br>Nuestro Curso Virtual  le permite aprender los pasos esenciales para montar un ordenador de sobremesa, explorar sus componentes, y poner a prueba sus conocimientos. explorar sus componentes, y poner a prueba tu Si esta es tu primera vez, por favor tome un momento para caminar a través de las características principales del escritorio virtual. Este tutorial está siempre disponible pulsando Ayuda en la esquina superior derecha.</text>
 </instructions>
 
 <instructions>
-<title>WELCOME TO IT ESSENTIALS VIRTUAL DESKTOP</title>
-<text><br>Our Virtual Desktop enables you to learn the essential steps to assemble a desktop computer, explore its components, and test your knowledge. If this is your first time, please take a moment to walk through the key features of the Virtual Desktop. This walkthrough is always available by pressing Help in the upper right hand corner.</text>
+<title>BIENVENIDO CURSO DE ENSAMBLAJE VIRTUAL</title>
+<text><br>Nuestro Curso Virtual  le permite aprender los pasos esenciales para montar un ordenador de sobremesa, explorar sus componentes, y poner a prueba sus conocimientos. explorar sus componentes, y poner a prueba tu Si esta es tu primera vez, por favor tome un momento para caminar a través de las características principales del escritorio virtual. Este tutorial está siempre disponible pulsando Ayuda en la esquina superior derecha.</text>
 </instructions>
 
 <instructions>
-<title>WELCOME TO IT ESSENTIALS VIRTUAL DESKTOP</title>
-<text><br>Our Virtual Desktop enables you to learn the essential steps to assemble a desktop computer, explore its components, and test your knowledge. If this is your first time, please take a moment to walk through the key features of the Virtual Desktop. This walkthrough is always available by pressing Help in the upper right hand corner.</text>
+<title>BIENVENIDO CURSO DE ENSAMBLAJE VIRTUAL</title>
+<text><br>Nuestro Curso Virtual  le permite aprender los pasos esenciales para montar un ordenador de sobremesa, explorar sus componentes, y poner a prueba sus conocimientos. explorar sus componentes, y poner a prueba tu Si esta es tu primera vez, por favor tome un momento para caminar a través de las características principales del escritorio virtual. Este tutorial está siempre disponible pulsando Ayuda en la esquina superior derecha.</text>
 </instructions>
 
 <instructions>
-<title>WELCOME TO IT ESSENTIALS VIRTUAL DESKTOP</title>
-<text><br>Our Virtual Desktop enables you to learn the essential steps to assemble a desktop computer, explore its components, and test your knowledge. If this is your first time, please take a moment to walk through the key features of the Virtual Desktop. This walkthrough is always available by pressing Help in the upper right hand corner.</text>
+<title>BIENVENIDO CURSO DE ENSAMBLAJE VIRTUAL</title>
+<text><br>Nuestro Curso Virtual  le permite aprender los pasos esenciales para montar un ordenador de sobremesa, explorar sus componentes, y poner a prueba sus conocimientos. explorar sus componentes, y poner a prueba tu Si esta es tu primera vez, por favor tome un momento para caminar a través de las características principales del escritorio virtual. Este tutorial está siempre disponible pulsando Ayuda en la esquina superior derecha.</text>
 </instructions>
 <!--
 =======================================
@@ -33,8 +33,8 @@ Intro Text
 ======================================= 
 -->
 <accordian id="  POWER SUPPLY" file="mcBOTTOMLAYER">
-	<text><br>A power supply provides the needed voltage to power the various electronic circuits that make up the PC. <br>Attach the power supply to the case.</text>
-	<text2><br>INSTALL POWER SUPPLY<br><ul><li>Move the power supply to the case</li><li>Align the holes in the power supply with the holes in the case</li><li>Secure the power supply to the case using the proper screws</li></ul></text2>
+	<text><br>Una fuente de alimentación proporciona la tensión necesaria para alimentar los diversos circuitos electrónicos que componen la PC.<br>Conecte la fuente de alimentación a la caja.</text>
+	<text2><br> INSTALE LA FUENTE DE ALIMENTACIÓN <br><ul><li>Mueva la fuente de alimentación a la caja</li><li>Align the holes in the power supply with the holes in the case</li><li>Secure the power supply to the case using the proper screws</li></ul></text2>
 </accordian>
 <accordian id="  MOTHERBOARD"     file= "mcMOTHERBOARD">
 	<text><br>The motherboard is the main printed circuit board that connects all the components of the computer. <br>On the motherboard, you will work with the following components:<Br> <ul><li>CPU</li><li>Thermal compound</li><li>CPU heat sink/fan assembly</li><li>RAM module (2)</li><li>Motherboard</li></ul></text>
@@ -48,11 +48,11 @@ INSTALL THE MOTHERBOARD <ul><li>Slowly move the motherboard into the case while 
 </accordian>
 <accordian id="  INTERNAL DRIVES" file="mcINTERNALDRIVES">
 	<text><br>The hard disk drive (HDD) is a magnetic drive that stores large amounts of data on fixed media.<br><br>Install the HDD into the case.</text>
-	<text2><br>INSTALL HARD DISK DRIVE<ul><li>Move the  HDD to the case</li><li>Position the  HDD so it aligns with the 3.5� drive bay</li><li>Insert the HDD into the drive bay</li><li>Secure the HDD to the case using the proper screws.</li><li><br><br></text2>
+	<text2><br>INSTALL HARD DISK DRIVE<ul><li>Move the  HDD to the case</li><li>Position the  HDD so it aligns with the 3.5” drive bay</li><li>Insert the HDD into the drive bay</li><li>Secure the HDD to the case using the proper screws.</li><li><br><br></text2>
 </accordian>
 <accordian id="  DRIVES IN EXTERNAL BAYS" file="mcEXTERNALDRIVES">
 	<text><br>The CD-RW/DVD drive is an optical storage device that reads and writes information to CDs and reads DVDs.<BR><BR>A floppy disk drive (FDD) is a magnetic drive that reads and writes information to floppy diskettes.<BR><BR>Install the Optical Drive and FDD.</text>
-	<text2><br>INSTALL OPTICAL DRIVE<UL><LI>Move the optical drive to the case</LI><LI>Position the optical drive so it aligns with the 5.25� drive bay</LI><LI>Insert the optical drive into the drive bay</LI><LI>Secure the optical drive to the case using the proper screws.</LI></UL><BR>INSTALL FLOPPY DRIVE<UL><LI>Move the FDD to the case</LI><LI>Position the FDD so it aligns with the 3.5 � drive bay</LI><LI>Insert the FDD into the drive bay</LI><LI>Secure the FDD to the case using the proper screws.</LI><UL><BR><BR>
+	<text2><br>INSTALL OPTICAL DRIVE<UL><LI>Move the optical drive to the case</LI><LI>Position the optical drive so it aligns with the 5.25” drive bay</LI><LI>Insert the optical drive into the drive bay</LI><LI>Secure the optical drive to the case using the proper screws.</LI></UL><BR>INSTALL FLOPPY DRIVE<UL><LI>Move the FDD to the case</LI><LI>Position the FDD so it aligns with the 3.5 “ drive bay</LI><LI>Insert the FDD into the drive bay</LI><LI>Secure the FDD to the case using the proper screws.</LI><UL><BR><BR>
 </text2>
 </accordian>
 <!--===============================-->
